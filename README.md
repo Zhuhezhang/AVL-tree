@@ -21,5 +21,3 @@
 然后是一个之前实习写过的凹入法输出二叉树（AVL树本质上也是二叉树），最后是释放AVL树的函数，若为空，则什么都不返回，否则若左右子树不空则递归释放，最后是delete tree即可。
 # 3.测试结果
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210308215407734.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNzk0NjMz,size_16,color_FFFFFF,t_70#pic_center)
-# 4.源码
-[https://github.com/Zhuhezhang/AVL-tree](https://github.com/Zhuhezhang/AVL-tree)
